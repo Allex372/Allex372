@@ -1,14 +1,8 @@
 ## Hi there 👋
-![GitHub Streak](https://streak-stats.demolab.com/?user=Allex372&theme=tokyonight)
 <!--
 **Allex372/Allex372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-#monkindey { 
-  position: Hángzhōu; 
-  height: 171cm; 
-  display: boy; 
-  background: Tinker Resolver 🔨; 
-  color: yellow 
-}
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAllex372=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
